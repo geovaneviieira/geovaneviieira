@@ -1,4 +1,4 @@
-## Hellow Wolrd! Me chamo Geovane Santos Vieira, estudante de Engenharia de Software, e um entusiasta na area da  programação e tecnologia!
+Me chamo Geovae Santos Vieira, estudante de Engenharia de Software, e um entusiasta na area da  programação e tecnologia!
 
 Será um prazer poder compartilhar com vocês meus primeiros projetos na área da pogramação.
 
