@@ -9,7 +9,7 @@ Será um prazer poder compartilhar com vocês meus primeiros projetos na área d
   <img align="center" alt="Geovane-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geovane-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Geovane-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Geovane-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/124888652?s=400&u=20510ba0c2feb7e725a9e92dc1cc7bb5afbf9bfb&v=4">
+  <img align="right" alt="Geovane-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/v2/D4D03AQFiJTgZdGCdOg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725369254015?e=1730937600&v=beta&t=eyBm_rsr5psAuzL7-tIYe1rDXDStYBnj3AkHeCiN9fY">
 </div>
   
   ##
